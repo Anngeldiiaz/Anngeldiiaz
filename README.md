@@ -10,6 +10,6 @@ Anngeldiiaz@goat:~$ ./status.sh
 
 + [ OK ] Estudiando 2º SMR en el IES Lomo de la Herradura
 + [ OK ] Configurando redes y máquinas virtuales con Ubuntu
-+ [ OK ] Aprendiendo Python, Java y COBOL
++ [ OK ] Aprendiendo Python, Java y html
 + [ OK ] Montando mi web con GitHub Pages
 - [ .. ] Cargando la próxima partida... 🎮
